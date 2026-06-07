@@ -1,14 +1,12 @@
 # 💫 Hi 👋, I'm Ayesha
-**A passionate Aspiring ML Engineer || Python Developer || AI & Deep Learning Enthusiast from Pakistan**
+**A passionate Aspiring ML Engineer || Deep Learning Enthusiast || AI Developer from Pakistan**
 
-Email Me 👉 ✉️ **ayeshaasghar.1310@gmail.com** For Collaboration/Project or Anything Else. 😊
-
-- 🔭 **I’m currently working on:** Clothing Shop Management System Project
-- 🌱 **I’m currently learning:** Python and its libraries
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 🔭 **I’m currently working on:** Building ML projects using Python & Deep Learning frameworks
+- 🌱 **I’m currently learning:** Python, TensorFlow, PyTorch, Scikit-Learn & ML Engineering
+- 🏆 **Certifications:** Google AI Professional & AI Essentials Certificates holder
 - 📫 **How to reach me:** ayeshaasghar.1310@gmail.com
 - 😄 **Pronouns:** Ayesha
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I turn data into intelligence and coffee into ML models! ☕🤖
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ayeshaasghar.13) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayesha_asghar14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayeshaasghar.1310@gmail.com) 
