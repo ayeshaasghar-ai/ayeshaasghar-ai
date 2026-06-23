@@ -4,10 +4,12 @@
 - 🔭 **I’m currently working on:** Building ML projects using Python & Deep Learning frameworks
 - 🌱 **I’m currently learning:** Python, TensorFlow, PyTorch, Scikit-Learn & ML Engineering
 - 🎓 **Certifications:**
-  - 🌐 **Google:** Google AI Essentials | Google AI Professional
-  - 🤖 **Simplilearn SkillUp:** Machine Learning for Beginners
-  - ☁️ **Google Cloud x Simplilearn:** Introduction to Generative AI
-- 🎓 **Virtual Internship:** Deloitte Data Analytics Internship Certificate (Forage)
+  - **Google:** Google AI Essentials | Google AI Professional
+  - **Google Cloud:** Introduction to Generative AI
+  - **Simplilearn SkillUp:** Machine Learning for Beginners
+- 🏢 **Virtual Internships:**
+  - **Deloitte:** Data Analytics Job Simulation
+  - **Tata:** GenAI Powered Data Analytics Job Simulation
 - 📫 **How to reach me:** ayeshaasghar.1310@gmail.com
 - 😄 **Pronouns:** Ayesha
 - ⚡ **Fun fact:** I turn data into intelligence and coffee into ML models! ☕🤖
