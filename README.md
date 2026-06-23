@@ -6,6 +6,7 @@
 - 🎓 **Certifications:**
   - 🌐 **Google:** Google AI Essentials | Google AI Professional
   - 🤖 **Simplilearn SkillUp:** Machine Learning for Beginners
+  - ☁️ **Google Cloud x Simplilearn:** Introduction to Generative AI
 - 🎓 **Virtual Internship:** Deloitte Data Analytics Internship Certificate (Forage)
 - 📫 **How to reach me:** ayeshaasghar.1310@gmail.com
 - 😄 **Pronouns:** Ayesha
