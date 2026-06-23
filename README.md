@@ -8,8 +8,8 @@
   - **Google Cloud:** Introduction to Generative AI
   - **Simplilearn SkillUp:** Machine Learning for Beginners
 - 🏢 **Virtual Internships:**
-  - **Deloitte:** Data Analytics Job Simulation
-  - **Tata:** GenAI Powered Data Analytics Job Simulation
+  - **Deloitte:** Data Analytics 
+  - **Tata:** GenAI Powered Data Analytics
 - 📫 **How to reach me:** ayeshaasghar.1310@gmail.com
 - 😄 **Pronouns:** Ayesha
 - ⚡ **Fun fact:** I turn data into intelligence and coffee into ML models! ☕🤖
