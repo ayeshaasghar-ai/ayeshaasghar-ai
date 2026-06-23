@@ -3,7 +3,9 @@
 
 - 🔭 **I’m currently working on:** Building ML projects using Python & Deep Learning frameworks
 - 🌱 **I’m currently learning:** Python, TensorFlow, PyTorch, Scikit-Learn & ML Engineering
-- 🏅 **Certifications:** Google AI Essentials | Google AI Professional Certificate
+- 🎓 **Certifications:**
+  - 🌐 **Google:** Google AI Essentials | Google AI Professional
+  - 🤖 **Simplilearn SkillUp:** Machine Learning for Beginners
 - 🎓 **Virtual Internship:** Deloitte Data Analytics Internship Certificate (Forage)
 - 📫 **How to reach me:** ayeshaasghar.1310@gmail.com
 - 😄 **Pronouns:** Ayesha
