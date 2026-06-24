@@ -10,6 +10,7 @@
 - 🏢 **Virtual Internships:**
   - **Deloitte:** Data Analytics 
   - **Tata:** GenAI Powered Data Analytics
+  - **Quantium:** Data Analytics
 - 📫 **How to reach me:** ayeshaasghar.1310@gmail.com
 - 😄 **Pronouns:** Ayesha
 - ⚡ **Fun fact:** I turn data into intelligence and coffee into ML models! ☕🤖
