@@ -4,6 +4,7 @@
 - 🔭 **I’m currently working on:** Building ML projects using Python & Deep Learning frameworks
 - 🌱 **I’m currently learning:** Python, TensorFlow, PyTorch, Scikit-Learn & ML Engineering
 - 🎓 **Certifications:**
+  - **Microsoft:** Github Copilot Fundamentals
   - **Google:** Google AI Essentials | Google AI Professional
   - **Google Cloud:** Introduction to Generative AI
   - **Simplilearn SkillUp:** Machine Learning for Beginners
